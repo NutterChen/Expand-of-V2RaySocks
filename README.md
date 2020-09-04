@@ -1,5 +1,7 @@
 # Expand-of-V2RaySocks
 
+Некоторые файлы, используемые для расширения функциональности v2raysocks
+
 ## flow.scriptable
 
 ### Зависимые файлы
@@ -17,3 +19,4 @@
 ### Изображение эффекта
 
 ![Effect picture](https://s1.ax1x.com/2020/09/04/wkndun.jpg "Effect picture")
+
